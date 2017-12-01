@@ -1,0 +1,16 @@
+{
+  "name": "inquirejs",
+  "version": "1.0.0",
+  "description": "Practice inquire",
+  "main": "inquirerGeocode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alpha DeAsis",
+  "license": "ISC",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^4.0.1"
+  },
+  "devDependencies": {}
+}
