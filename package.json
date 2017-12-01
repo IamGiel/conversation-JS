@@ -12,5 +12,13 @@
     "inquire": "^0.4.8",
     "inquirer": "^4.0.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamGiel/conversation-JS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IamGiel/conversation-JS/issues"
+  },
+  "homepage": "https://github.com/IamGiel/conversation-JS#readme"
 }
